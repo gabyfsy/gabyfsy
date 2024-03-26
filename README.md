@@ -1,4 +1,4 @@
-# Hola 👋, soy [Nombre del profesional]
+# Hola 👋, soy Gaby Figueroa S.
 
 Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
 
