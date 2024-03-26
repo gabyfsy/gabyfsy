@@ -1,10 +1,17 @@
-# Hola 👋, soy Gaby Figueroa S.
+# ¡Hola 👋, soy Gaby Figueroa S.!
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
+Gracias por leer este ReadMe.
 
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
+Te cuento que me considero una profesional muy versátil, que tiene experiencia en una amplia gama de campos, desde el turismo y la docencia hasta la programación. Mi trayectoria diversa me ha brindado una perspectiva única y habilidades interdisciplinarias que me permiten abordar desafíos desde diferentes ángulos.
 
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
+Con 15 años de experiencia en la industria del turismo, he desarrollado habilidades de servicio al cliente y gestión de proyectos que se han complementado con mi pasión por la enseñanza y el aprendizaje. Como docente, he tenido el privilegio de impulsar a otras persoanas a encontrar sus caminos y fomentar el aprendizaje continuo.
+
+Mi interés en la tecnología me llevó a incursionar en el mundo de la programación, donde he adquirido habilidades en las tecnologías que puedes revisar más abajo. 
+
+Esta combinación única de experiencias me ha permitido desarrollar soluciones creativas y adaptarme a entornos diversos.
+
+¡Espero que podamos conectar!
+
 
 ## 📫 Contacto
 
