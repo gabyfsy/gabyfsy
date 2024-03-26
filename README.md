@@ -9,7 +9,7 @@ Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizar
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<gabrielastanton@gmail.com>**
-- Puedes contactarme a través de **[Linkedin]((https://www.linkedin.com/in/gabyfsy/))**
+- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/gabyfsy/)**
 - Puedes visitar mi **[sitio web](https://example.com)**
 
 ### 🎨 Frontend
