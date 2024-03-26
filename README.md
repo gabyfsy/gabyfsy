@@ -4,7 +4,7 @@ Gracias por leer este ReadMe.
 
 Te cuento que me considero una profesional muy versátil, que tiene experiencia en una amplia gama de campos, desde el turismo y la docencia hasta la programación. Mi trayectoria diversa me ha brindado una perspectiva única y habilidades interdisciplinarias que me permiten abordar desafíos desde diferentes ángulos.
 
-Con 15 años de experiencia en la industria del turismo, he desarrollado habilidades de servicio al cliente y gestión de proyectos que se han complementado con mi pasión por la enseñanza y el aprendizaje. Como docente, he tenido el privilegio de impulsar a otras persoanas a encontrar sus caminos y fomentar el aprendizaje continuo.
+Con 15 años de experiencia en la industria del turismo, he desarrollado habilidades de servicio al cliente y gestión de proyectos que se han complementado con mi pasión por la enseñanza y la adquisición de nuevas herramientas y competencias. Como docente, he tenido el privilegio de impulsar a otras personas a encontrar sus caminos y fomentar el aprendizaje continuo.
 
 Mi interés en la tecnología me llevó a incursionar en el mundo de la programación, donde he adquirido habilidades en las tecnologías que puedes revisar más abajo. 
 
